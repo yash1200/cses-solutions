@@ -1,3 +1,4 @@
+//https://codeforces.com/blog/entry/53925
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
