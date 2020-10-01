@@ -2,7 +2,7 @@
 
 CSES : https://cses.fi/problemset/list/
 
-A Repo for CSES Solutions
+A Repo for CSES Solutions in cpp.
 
 ## Created & Maintained By
 
